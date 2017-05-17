@@ -81,6 +81,9 @@ body {
         text-align: center;
         margin-top: 10px;
         padding: 20px;
+        display: inline-block;
+        position: relative;
+        bottom: 260px;
         
       
     }
@@ -130,6 +133,8 @@ body {
         background: #ebebeb;
         margin-left: 225px;
         margin-top: 15px;
+        position: relative;
+    bottom: 263px;
     }
     
 
